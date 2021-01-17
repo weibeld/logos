@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="289px" height="101px" viewBox="0 0 289 101" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" fill-rule="nonzero">
+            <g id="jwt-icon-color">
+                <polygon id="Path" fill="#FFFFFF" points="57.8 27.2 57.7 0.3 42.7 0.3 42.8 27.2 50.3 37.5"></polygon>
+                <polygon id="Path" fill="#FFFFFF" points="42.8 73.3 42.8 100.3 57.8 100.3 57.8 73.3 50.3 63"></polygon>
+                <polygon id="Path" fill="#00F2E6" points="57.8 73.3 73.6 95.1 85.7 86.3 69.9 64.5 57.8 60.6"></polygon>
+                <polygon id="Path" fill="#00F2E6" points="42.8 27.2 26.9 5.4 14.8 14.2 30.6 36 42.8 39.9"></polygon>
+                <polygon id="Path" fill="#00B9F1" points="30.6 36 5 27.7 0.4 41.9 26 50.3 38.1 46.3"></polygon>
+                <polygon id="Path" fill="#00B9F1" points="62.4 54.2 69.9 64.5 95.5 72.8 100.1 58.6 74.5 50.3"></polygon>
+                <polygon id="Path" fill="#D63AFF" points="74.5 50.3 100.1 41.9 95.5 27.7 69.9 36 62.4 46.3"></polygon>
+                <polygon id="Path" fill="#D63AFF" points="26 50.3 0.4 58.6 5 72.8 30.6 64.5 38.1 54.2"></polygon>
+                <polygon id="Path" fill="#FB015B" points="30.6 64.5 14.8 86.3 26.9 95.1 42.8 73.3 42.8 60.6"></polygon>
+                <polygon id="Path" fill="#FB015B" points="69.9 36 85.7 14.2 73.6 5.4 57.8 27.2 57.8 39.9"></polygon>
+            </g>
+            <g id="logo-2" transform="translate(131.000000, 26.000000)" fill="#FFFFFF">
+                <path d="M14.1,0.8 L14.1,35.8 C14.1,43.5 7.8,49.8 0.1,49.8 L0.1,42.8 C4,42.8 7.1,39.7 7.1,35.8 L7.1,0.8 L14.1,0.8 L14.1,0.8 Z M141.9,7.8 L157.7,7.8 L157.7,0.8 L119.2,0.8 L119.2,7.8 L134.9,7.8 L134.9,49.8 L141.9,49.8 L141.9,7.8 L141.9,7.8 Z M98.1,0.8 L98.1,35.8 C98.1,39.7 95,42.8 91.1,42.8 C87.2,42.8 84.1,39.7 84.1,35.8 L84.1,14.8 C84.1,7.1 77.8,0.8 70.1,0.8 C62.4,0.8 56.1,7.1 56.1,14.8 L56.1,35.8 C56.1,39.7 53,42.8 49.1,42.8 C45.2,42.8 42.1,39.7 42.1,35.8 L42.1,0.8 L35.1,0.8 L35.1,35.8 C35.1,43.5 41.4,49.8 49.1,49.8 C56.8,49.8 63.1,43.5 63.1,35.8 L63.1,14.8 C63.1,10.9 66.2,7.8 70.1,7.8 C74,7.8 77.1,10.9 77.1,14.8 L77.1,14.8 L77.1,35.8 C77.1,43.5 83.4,49.8 91.1,49.8 C98.8,49.8 105.1,43.5 105.1,35.8 L105.1,0.8 L98.1,0.8 L98.1,0.8 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
